@@ -1,6 +1,6 @@
 ## Olá, me chamo Matheus Marques!
 
-- 💻 atualmente cursando: Curso técnico em Desenvolvimento de sistemas na rede SENAI (Completo) / Faculdade de ADS na universidade CESUSC (incompleto)
+- 💻 Cursos: Curso técnico em Desenvolvimento de sistemas na rede SENAI (Completo) / Faculdade de ADS na universidade CESUSC (incompleto)
 - 📚 Estudando mais atualmente: Python, Java, JavaScript, Algoritmos etc.. 
 - 💾 Contate-me: matheusdosreis2004@gmail.com
 - 🎈 Tenho 18 anos
