@@ -3,7 +3,7 @@
 - 💻 Cursos: Curso técnico em Desenvolvimento de sistemas na rede SENAI (Completo) / Faculdade de ADS na universidade CESUSC (incompleto)
 - 📚 Estudando mais atualmente: Python, Java, JavaScript, Algoritmos etc.. 
 - 💾 Contate-me: matheusdosreis2004@gmail.com
-- 🎈 Tenho 18 anos
+- 🎈 Tenho 19 anos
 
 
 <div align="center">
@@ -19,10 +19,7 @@
   <img align="center" alt="Matheus-Postgress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Matheus-Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
-  <img align="center" alt="Matheus-Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
   <img align="center" alt="Matheus-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
-  <img align="center" alt="Matheus-Intelij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
  </div>
   
   ##
@@ -33,8 +30,6 @@
   <a href="https://www.linkedin.com/in/matheus-marques-817a2b20b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
  </div>
  
- 
- ![Snake animation](https://github.com/MatheusMMarques/MatheusMMarques/blob/output/github-contribution-grid-snake.svg)
    
   
   
