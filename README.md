@@ -1,7 +1,7 @@
 ## Olá, me chamo Matheus Marques!
 
 - 💻 Cursos: Curso técnico em Desenvolvimento de sistemas na rede SENAI / Faculdade de ADS na universidade CESUSC / Jogos Digitais
-- 📚 Trabalhando mais atualmente: PHP, Synfoni, JavaScript, Integração, FrontEnd, AWS etc.. 
+- 📚 Trabalhando mais atualmente: PHP, API's, JavaScript, Laravel, React, AWS etc.. 
 - 💾 Contate-me: matheusdosreis2004@gmail.com
 - 🎈 Tenho 21 anos
 
