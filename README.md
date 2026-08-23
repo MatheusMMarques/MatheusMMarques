@@ -31,11 +31,10 @@ Atualmente trabalho principalmente com **PHP, Symfony, JavaScript, MySQL, Docker
 
 ## 🎓 Formação
 
-- Análise e Desenvolvimento de Sistemas
+- Análise e Desenvolvimento de Sistemas — UNICESUSC
 - Técnico em Desenvolvimento de Sistemas — SENAI
-- Formação em Jogos Digitais
 
 ## 📫 Contato
 
-- LinkedIn: coloque-seu-link-aqui
+- LinkedIn: (https://www.linkedin.com/in/matheus-marquesdrs/)
 - E-mail: matheusdosreis2004@gmail.com
