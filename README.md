@@ -4,6 +4,8 @@ Desenvolvedor Full-Stack com experiência no desenvolvimento e manutenção de p
 
 Atualmente trabalho principalmente com **PHP, Symfony, JavaScript, MySQL, Docker e AWS**, atuando tanto em backend quanto em frontend, investigação de bugs, integrações e evolução de sistemas em produção.
 
+- Meu portfólio: https://my-portfolio-nine-ivory-36.vercel.app/
+
 ## 💻 Tecnologias
 
 **Backend**
@@ -36,5 +38,5 @@ Atualmente trabalho principalmente com **PHP, Symfony, JavaScript, MySQL, Docker
 
 ## 📫 Contato
 
-- LinkedIn: (https://www.linkedin.com/in/matheus-marquesdrs/)
+- LinkedIn: https://www.linkedin.com/in/matheus-marquesdrs/
 - E-mail: matheusdosreis2004@gmail.com
