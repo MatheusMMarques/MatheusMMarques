@@ -1,34 +1,52 @@
-## Olá, me chamo Matheus Marques!
+# Olá, eu sou o Matheus Marques 👋
 
-- 💻 Cursos: Curso técnico em Desenvolvimento de sistemas na rede SENAI / Faculdade de ADS na universidade CESUSC / Jogos Digitais
-- 📚 Trabalhando mais atualmente: PHP, API's, JavaScript, Laravel, React, AWS etc.. 
-- 💾 Contate-me: matheusdosreis2004@gmail.com
-- 🎈 Tenho 21 anos
+Desenvolvedor Full-Stack com experiência no desenvolvimento e manutenção de plataformas web, e-commerces e integrações.
 
+Atualmente trabalho principalmente com **PHP, Symfony, JavaScript, MySQL, Docker e AWS**, atuando tanto em backend quanto em frontend, investigação de bugs, integrações e evolução de sistemas em produção.
 
-<div align="center">
-  <a href="https://github.com/MatheusMMarques">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMMarques&layout=compact&langs_count=7&theme=dracula"/>       
-</div>
-  
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Matheus-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Matheus-Postgress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Matheus-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
- </div>
-  
-  ##
-  
- <div> 
-  <a href="https://instagram.com/matheus.maarques" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:matheusdosreis2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-marques-817a2b20b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
- </div>
- 
-   
-  
-  
+## 💻 Tecnologias
+
+**Backend**
+- PHP
+- Symfony
+- Laravel
+- APIs REST
+- Doctrine
+
+**Frontend**
+- JavaScript
+- TypeScript
+- React
+- HTML
+- CSS
+- Tailwind CSS
+
+**Infraestrutura e dados**
+- Docker
+- MySQL
+- Redis
+- AWS
+- Nginx
+- Git
+
+## 🚀 Projetos
+
+### Essentia Group — Teste Técnico Backend
+
+Implementações desenvolvidas para um teste técnico envolvendo dois ecossistemas diferentes:
+
+- **Customer Management:** aplicação de gerenciamento de clientes desenvolvida com Laravel.
+- **Magento Store Pickup:** módulo para Magento 2 que adiciona retirada gratuita em loja como método de entrega.
+
+[Ver projeto](https://github.com/MatheusMMarques/Essentia-Group)
+
+## 🎓 Formação
+
+- Análise e Desenvolvimento de Sistemas
+- Técnico em Desenvolvimento de Sistemas — SENAI
+- Formação em Jogos Digitais
+
+## 📫 Contato
+
+- LinkedIn: coloque-seu-link-aqui
+- E-mail: matheusdosreis2004@gmail.com
