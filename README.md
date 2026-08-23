@@ -29,17 +29,6 @@ Atualmente trabalho principalmente com **PHP, Symfony, JavaScript, MySQL, Docker
 - Nginx
 - Git
 
-## 🚀 Projetos
-
-### Essentia Group — Teste Técnico Backend
-
-Implementações desenvolvidas para um teste técnico envolvendo dois ecossistemas diferentes:
-
-- **Customer Management:** aplicação de gerenciamento de clientes desenvolvida com Laravel.
-- **Magento Store Pickup:** módulo para Magento 2 que adiciona retirada gratuita em loja como método de entrega.
-
-[Ver projeto](https://github.com/MatheusMMarques/Essentia-Group)
-
 ## 🎓 Formação
 
 - Análise e Desenvolvimento de Sistemas
